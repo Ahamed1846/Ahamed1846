@@ -1,9 +1,9 @@
 ## 👋 Heyy, I'm Ahamed Meyan
 
-**Full-stack Engineer** focused on  
-**backend engineering**, **system design**, and **open-source ecosystems**.
+**Full-stack Engineer** with a bias toward  
+**backend engineering**, building clean and scalable architectures.
 
-I build reliable backend systems, design scalable architectures, and contribute to open-source ecosystems that push engineering forward.
+I build and maintain backend services, enhance project architecture, and contribute to open-source projects.
 
 ---
 

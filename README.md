@@ -18,7 +18,7 @@ I build and maintain backend services, enhance project architecture, and contrib
 <div align="left">
 
 <img src="https://img.shields.io/badge/Merged-13-2ECC71?style=flat&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Open-2-3498DB?style=flat&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/Open-3-3498DB?style=flat&labelColor=0A0A0A" />
 <img src="https://img.shields.io/badge/Closed-2-E74C3C?style=flat&labelColor=0A0A0A" />
 
 </div>

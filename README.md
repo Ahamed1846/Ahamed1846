@@ -1,6 +1,6 @@
 ## 👋 Heyy, I'm Ahamed Meyan
 
-**SDE* with a bias toward  
+**SDE** with a bias toward  
 **backend engineering**, building clean and scalable architectures.
 
 I build and maintain backend services, enhance project architecture, and contribute to open-source projects.

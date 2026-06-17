@@ -1,4 +1,4 @@
-## 👋 Heyy, I'm Ahamed Meyan
+## 👋 Heyy, I'm [Ahamed Meyan](https://ahamedmeyan.dev)
 
 **Software Engineer** with a bias toward  
 **backend engineering**, building clean and scalable architectures.
